@@ -1,7 +1,7 @@
 ---
 title: "Photon - Dining Pendant lamp"
 date: 2022-06-12T20:14:11-07:00
-hero: /images/Photon/photon_long_exposure.jpeg
+hero: /images/Photon/photon_front.jpg
 draft: true
 ---
 
@@ -11,7 +11,7 @@ This lamp started off with a beam of wood. A thin plate of stainless steel float
 
 The sheets of metal are laser cut. The lower reflective plate reflects the light and serves as a heat sink for the LEDs too.
 
-![Picture of photon](/images/Photon/photon_front.jpg)
+![Picture of photon](/images/Photon/photon_long_exposure.jpeg)
 
 ![Picture of photon](/images/Photon/photon_general_side.jpg)
 
