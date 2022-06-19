@@ -88,14 +88,5 @@ For lower shelves, the slots can be replaced with holes. This makes the assembly
       <description></description>
     </item>
     
-    <item>
-      <title>Example Post</title>
-      <link>https://timot05.github.io/public/post/my-first-post/</link>
-      <pubDate>Mon, 30 May 2022 23:44:29 -0700</pubDate>
-      
-      <guid>https://timot05.github.io/public/post/my-first-post/</guid>
-      <description>&lt;p&gt;Photon is a lamp. Duh!&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

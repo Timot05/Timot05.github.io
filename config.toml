@@ -9,12 +9,12 @@ theme = "hugo-theme-novela"
 paginate = 6
 
 [social]
-twitter= "https://twitter.com/forestryio"
-github= "https://github.com/forestryio/novela-hugo-starter"
-linkedin= "https://www.linkedin.com/company/forestry.io"
-instagram = "#"
-dribbble = "#"
-youtube = "#"
+# twitter= ""
+# github= ""
+# linkedin= ""
+# instagram = "#"
+# dribbble = "#"
+# youtube = "#"
 
 [taxonomies]
 author = "authors"
