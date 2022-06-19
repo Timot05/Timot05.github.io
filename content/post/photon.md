@@ -7,7 +7,7 @@ draft: true
 
 This lamp started off with a beam of wood. A thin plate of stainless steel floats just under it. The six LEDs that are placed throughout the beam shine a warm light towards the table. Photon also provides a soft ambiance illumination as the light reflects on the steel towards the ceiling and the lamp's sides through the gap between the metal and the wood.
 
-![Picture of photon](images/Photon/photon_general_34_top.jpg)
+![General picture of photon](images/Photon/photon_general_34_top.jpg)
 
 The sheets of metal are laser cut. The lower reflective plate reflects the light and serves as a heat sink for the LEDs too.
 
