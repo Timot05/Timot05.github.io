@@ -1,6 +1,7 @@
 baseURL = 'https://timot05.github.io/public/'
 languageCode = 'en-us'
 title = 'SARK'
+canonifyurls = true
 
 # Novela settings
 theme = "hugo-theme-novela"
