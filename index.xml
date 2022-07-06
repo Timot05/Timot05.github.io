@@ -6,46 +6,7 @@
     <description>Recent content on SARK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jun 2022 20:14:11 -0700</lastBuildDate><atom:link href="https://timot05.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FPV Drone</title>
-      <link>https://timot05.github.io/post/drone/</link>
-      <pubDate>Sun, 12 Jun 2022 20:14:11 -0700</pubDate>
-      
-      <guid>https://timot05.github.io/post/drone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photon - Dining Pendant lamp</title>
-      <link>https://timot05.github.io/post/photon/</link>
-      <pubDate>Sun, 12 Jun 2022 20:14:11 -0700</pubDate>
-      
-      <guid>https://timot05.github.io/post/photon/</guid>
-      <description>This lamp started off with a beam of wood. A thin plate of stainless steel floats just under it. The six LEDs that are placed throughout the beam shine a warm light towards the table. Photon also provides a soft ambiance illumination as the light reflects on the steel towards the ceiling and the lamp&amp;rsquo;s sides through the gap between the metal and the wood.
-The sheets of metal are laser cut.</description>
-    </item>
-    
-    <item>
-      <title>Stack - Modular Shelving System</title>
-      <link>https://timot05.github.io/post/stack/</link>
-      <pubDate>Sun, 12 Jun 2022 20:14:11 -0700</pubDate>
-      
-      <guid>https://timot05.github.io/post/stack/</guid>
-      <description>Stack is a shelving system that consists of a combination of slotted boards of wood and threaded rods.
-By selecting the board dimensions, the number of boards, the number of supporting rods and the threaded rod height, the user can design a shelf specific to his needs.
-For lower shelves, the slots can be replaced with holes. This makes the assembly process more tedious as the nuts have to be threaded all the way.</description>
-    </item>
-    
-    <item>
-      <title>Steel - Big Floor Lamp</title>
-      <link>https://timot05.github.io/post/steel/</link>
-      <pubDate>Sun, 12 Jun 2022 20:14:11 -0700</pubDate>
-      
-      <guid>https://timot05.github.io/post/steel/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Jan 2020 20:14:11 -0700</lastBuildDate><atom:link href="https://timot05.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MotionPilot - FPV Drone Motion Controller</title>
       <link>https://timot05.github.io/post/motionpilot/</link>
@@ -54,6 +15,15 @@ For lower shelves, the slots can be replaced with holes. This makes the assembly
       <guid>https://timot05.github.io/post/motionpilot/</guid>
       <description>Our goal with this project was to improve the flight experience of First Person View (FPV) drones that are piloted with cumbersome conventional controllers. This was achieved by introducing motion control and a user interface specifically tailored for FPV.
 This project has been challenging and incredibly rewarding. It involved designing multiple prototypes, firmware revisions, electronic printed circuit boards and mechanical systems. We manufactured and assembled more than hundreds of prototypes that are still being used by our beta-testers to this day.</description>
+    </item>
+    
+    <item>
+      <title>FPV Drone</title>
+      <link>https://timot05.github.io/post/drone/</link>
+      <pubDate>Sat, 01 Jun 2019 20:14:11 -0700</pubDate>
+      
+      <guid>https://timot05.github.io/post/drone/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -78,6 +48,17 @@ The setup uses 7 membranes in total (1 subwoofer, 2 woofers, 2 mediums, 2 tweete
     </item>
     
     <item>
+      <title>Stack - Modular Shelving System</title>
+      <link>https://timot05.github.io/post/stack/</link>
+      <pubDate>Mon, 07 Oct 2013 20:14:11 -0700</pubDate>
+      
+      <guid>https://timot05.github.io/post/stack/</guid>
+      <description>Stack is a shelving system that consists of a combination of slotted boards of wood and threaded rods.
+By selecting the board dimensions, the number of boards, the number of supporting rods and the threaded rod height, the user can design a shelf specific to his needs.
+For lower shelves, the slots can be replaced with holes. This makes the assembly process more tedious as the nuts have to be threaded all the way.</description>
+    </item>
+    
+    <item>
       <title>Wind Turbine - Home Electricity Generation</title>
       <link>https://timot05.github.io/post/turbine/</link>
       <pubDate>Sun, 01 Jul 2012 20:14:11 -0700</pubDate>
@@ -85,6 +66,16 @@ The setup uses 7 membranes in total (1 subwoofer, 2 woofers, 2 mediums, 2 tweete
       <guid>https://timot05.github.io/post/turbine/</guid>
       <description>This wind turbine project was developed during high school. The turbine was charging a lead-acid battery.
 I built a simple charge controller based on a 555 timer chip. The two comparators in the chip could be used to set the high and low cutoff voltage for the charge controller.</description>
+    </item>
+    
+    <item>
+      <title>Photon - Dining Pendant lamp</title>
+      <link>https://timot05.github.io/post/photon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timot05.github.io/post/photon/</guid>
+      <description>This lamp started off with a beam of wood. A thin plate of stainless steel floats just under it. The six LEDs that are placed throughout the beam shine a warm light towards the table. Photon also provides a soft ambiance illumination as the light reflects on the steel towards the ceiling and the lamp&amp;rsquo;s sides through the gap between the metal and the wood.
+The sheets of metal are laser cut.</description>
     </item>
     
   </channel>
