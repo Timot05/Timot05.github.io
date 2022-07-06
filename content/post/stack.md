@@ -1,6 +1,6 @@
 ---
 title: "Stack - Modular Shelving System"
-date: 2022-06-12T20:14:11-07:00
+date: 2013-10-07T20:14:11-07:00
 hero: /images/Stack/stack_white_bg_hero.jpg
 draft: true
 ---
