@@ -16,6 +16,9 @@
 *.dylib
 *.dll
 
+# Compiled website
+public/*
+
 # Fortran module files
 *.mod
 *.smod
