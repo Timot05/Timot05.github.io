@@ -1,4 +1,4 @@
-baseURL = 'https://timot05.github.io/public/'
+baseURL = 'https://timot05.github.io/'
 languageCode = 'en-us'
 title = 'SARK'
 canonifyurls = true
