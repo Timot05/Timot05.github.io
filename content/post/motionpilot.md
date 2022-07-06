@@ -5,7 +5,7 @@ hero: /images/Motionpilot/controller_hand_V3.jpeg
 draft: true
 ---
 
-The goal of this product was to improve the flight experience with First Person View (FPV) drones. This was achieved by redefining how an FPV drone is controlled by introducing motion control and by designing the UI specifically for FPV.
+Our goal with this project was to improve the flight experience with First Person View (FPV) drones. This was achieved by redefining how an FPV drone is controlled by introducing motion control and by designing the UI specifically for FPV.
 
 ![Picture of MotionPilot Controller](/images/Motionpilot/motionpilot_remote.jpg)
 
