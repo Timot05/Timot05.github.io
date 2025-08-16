@@ -6,8 +6,10 @@ canonifyurls = true
 # Novela settings
 theme = "hugo-theme-novela"
 
-paginate = 6
+[pagination]
+pagerSize = 6
 
+[params]
 [social]
 # twitter= ""
 # github= ""
