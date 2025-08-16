@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wind Turbine - Home Electricity Generation - SARK</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'sans': ['Inter', 'system-ui', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-50 font-sans">
+    <!-- Header -->
+    <header class="bg-white shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-6">
+                <a href="index.html" class="hover:opacity-80 transition-opacity"><img src="logo.svg" alt="SARK" class="h-12"></a>
+
+            </div>
+        </div>
+    </header>
+
+    <!-- Content -->
+    <main class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div class="bg-white rounded-lg shadow-md p-8">
+            <h1 class="text-4xl md:text-5xl font-light text-gray-900 mb-8">Wind Turbine - Home Electricity Generation</h1>
+            <div class="prose prose-lg max-w-none">
+                <img src="static/images/Turbine/wind_turbine_hero.jpeg" alt="Wind Turbine" class="w-full rounded-lg mb-8">
+                <p class="text-lg text-gray-700 mb-8">
+                    This wind turbine project was developed during high school. The turbine was charging a lead-acid battery.
+                </p>
+
+                <img src="static/images/Turbine/fandp_motor.jpg" alt="Picture of wind turbine" class="w-full rounded-lg mb-8">
+                
+                <p class="text-lg text-gray-700 mb-8">
+                    I built a simple charge controller based on a 555 timer chip. The two comparators in the chip could be used to set the high and low cutoff voltage for the charge controller.
+                </p>
+
+                <img src="static/images/Turbine/wind_turbine_guts.jpg" alt="Picture of wind turbine drivetrain" class="w-full rounded-lg mb-8">
+                
+                <img src="static/images/Turbine/555_enclosure.jpg" alt="Picture of wind turbine charge controller" class="w-full rounded-lg mb-8">
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8 mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <p>&copy; 2025 SARK. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html> 
