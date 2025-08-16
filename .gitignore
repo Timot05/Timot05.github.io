@@ -19,6 +19,10 @@
 # Compiled website
 public/*
 
+# Hugo generated files
+resources/_gen/
+.hugo_build.lock
+
 # Fortran module files
 *.mod
 *.smod
